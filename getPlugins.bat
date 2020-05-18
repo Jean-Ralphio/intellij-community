@@ -1,0 +1,1 @@
+call git clone git@github.com:JetBrains/android.git android
